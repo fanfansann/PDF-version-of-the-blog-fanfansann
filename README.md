@@ -7,8 +7,9 @@ GitHub 下载文件不方便的话可以使用百度云盘下载：
 
 《算法竞赛中的初等数论》
 
-链接：https://pan.baidu.com/s/1eBuxdgUpJOqU7FosCM4uLg 
-提取码：1ink  
+链接：https://pan.baidu.com/s/1oIQ0Q6G0ELAE4JfbGf5sMA 
+提取码：haha 
+
 
 《繁凡的ACM算法全家桶》
 
